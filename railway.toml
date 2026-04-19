@@ -1,0 +1,5 @@
+[build]
+command = "echo 'Установка зависимостей...' && pip install -r requirements.txt"
+
+[run]
+command = "python app.py"
